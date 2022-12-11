@@ -19,8 +19,11 @@
 
 **Video demo:** https://youtu.be/cxFdYFw4uP0
 
-**Main repository:** https://github.com/buiminhhoat/MyWebsite.git
-
 # Bài tập lớn CSDL - Blog Website
 
+## CSDL
+
+<img src="public/img/MySQL.png" alt="drawing"/>
+
+## Website
 <img src="public/img/Login_DEMO.png" alt="drawing"/>
