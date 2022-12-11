@@ -19,6 +19,8 @@
 
 **Video demo:** https://youtu.be/cxFdYFw4uP0
 
+**Main repository:** https://github.com/buiminhhoat/MyWebsite.git
+
 # Bài tập lớn CSDL - Blog Website
 
 ## CSDL
